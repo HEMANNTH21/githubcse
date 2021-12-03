@@ -17,7 +17,7 @@
   * Virat Kohli
   * AB Devilers
   * Siraj
-  * Maxwell
+  <!-- * Maxwell -->
 1. CSK
     1. MS Dhoni
     2. Suresh Raina
@@ -29,6 +29,8 @@
 
 ## MAHENDRA SINGH DHONI
 ![MSD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLdmDIuz93wrsfaa64jv0h4pljKsongtmQw&usqp=CAU)
+
+![MSD](https://c.tenor.com/ARdozKTULloAAAAM/the-trade-mark-shot-of-msd-gif.gif)
 
 s.no|name
 ----|----
