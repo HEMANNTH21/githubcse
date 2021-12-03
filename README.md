@@ -36,3 +36,14 @@ s.no|name
 2|S Raina
 3|Virat Kohli
 4|Rohit Sharma
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+
+nice 👍 work :relaxed:
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+Here is a simple footnote[^1].
