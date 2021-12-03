@@ -26,3 +26,13 @@
 [git](https://git-scm.com/)
 
 [google](https://www.google.com/)
+
+## MAHENDRA SINGH DHONI
+![MSD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLdmDIuz93wrsfaa64jv0h4pljKsongtmQw&usqp=CAU)
+
+s.no|name
+----|----
+1|MS Dhoni
+2|S Raina
+3|Virat Kohli
+4|Rohit Sharma
