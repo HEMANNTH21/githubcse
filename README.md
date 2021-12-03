@@ -47,3 +47,4 @@ nice 👍 work :relaxed:
      - Second nested list item
 
 Here is a simple footnote[^1].
+[^1]: My reference.
